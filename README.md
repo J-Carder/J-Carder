@@ -1,7 +1,5 @@
 # Hi, I'm Jeremy Carder
 
-### I'm currently finishing my diploma in Information and Computer Systems
-
 You can checkout my [website](https://jeremycarder.ca) for more about me and what I'm working on.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-carder)](https://github.com/anuraghazra/github-readme-stats)
