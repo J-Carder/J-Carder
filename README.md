@@ -1,9 +1,6 @@
 # Hi, I'm Jeremy Carder
 
-You can checkout my [website](https://jeremycarder.ca) for more about me and what I'm working on.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-carder)](https://github.com/anuraghazra/github-readme-stats)
-
+Checkout my [website](https://jeremycarder.ca) for more about me and what I'm working on.
 
 <!--
 **J-Carder/J-Carder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
